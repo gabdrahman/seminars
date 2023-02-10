@@ -1,0 +1,15 @@
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\bin\Debug\net7.0\semenar1.exe
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\bin\Debug\net7.0\semenar1.deps.json
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\bin\Debug\net7.0\semenar1.runtimeconfig.json
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\bin\Debug\net7.0\semenar1.dll
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\bin\Debug\net7.0\semenar1.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.csproj.AssemblyReference.cache
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.AssemblyInfoInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.AssemblyInfo.cs
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.dll
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\refint\semenar1.dll
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.pdb
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\semenar1.genruntimeconfig.cache
+C:\Users\Марсель\Desktop\Учеба\GB\seminars\semenar1\obj\Debug\net7.0\ref\semenar1.dll
